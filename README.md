@@ -1,5 +1,4 @@
 # Social Media Sentimental Analysis
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Sapna-Singh10/Social_Media_Sentimental_Analysis)
 
 This repository contains a project for performing multi-class sentiment analysis on social media data. The primary goal is to preprocess textual data and apply various machine learning models to classify the sentiment of a given text into a wide range of emotional categories.
 
